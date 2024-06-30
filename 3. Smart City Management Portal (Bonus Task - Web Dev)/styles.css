@@ -1,0 +1,53 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  background-image: url("/smart_city.png"); /* Replace with your image path */
+  background-size: cover; /* Cover the entire background */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+}
+
+.sidebar .sidebar-content {
+  background-color: #333;
+  color: white;
+}
+
+.sidebar .sidebar-content .stButton {
+  background-color: #4caf50;
+  color: white;
+}
+
+.sidebar .sidebar-content .stButton:hover {
+  background-color: #45a049;
+}
+
+.stButton {
+  color: white;
+  background-color: #008cba;
+  border-color: #008cba; /* Add border color to match background color */
+  border-radius: 5px; /* Adjust border radius */
+  padding: 8px 16px; /* Adjust padding for better button size */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.stButton:hover {
+  background-color: #00587a;
+}
+
+/* Custom styles for specific elements */
+.card {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.chart-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
