@@ -104,12 +104,8 @@ pip install -r requirements.txt
    ```
 
 ## Team Members
-
+- Pratap Pawar
+- Atharva Awatade
 - Atharva Paymode
-- [Other team members' names]
 
 We hope you find our Smart HealthCare Assistant and Smart City Management Portal projects useful. For any questions or contributions, feel free to reach out to our team.
-
----
-
-This README provides a comprehensive overview of our projects, including the file structure, features, installation instructions, and how to run the applications.
